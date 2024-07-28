@@ -1,0 +1,5 @@
+ESP32/Intro/*/build/
+ESP32/Intro/*/app/build/
+*/.idea
+.idea/
+*/app/env/
